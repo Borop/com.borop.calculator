@@ -16,7 +16,7 @@ namespace com.borop.calculator
         public MainPage()
         {
             InitializeComponent();
-
+             
             OnClear(this, null);
         }
 

@@ -17,7 +17,7 @@ namespace com.borop.calculator
                 case "÷":
                     result = value1 / value2;
                     break;
-                case "×":
+                case "x":
                     result = value1 * value2;
                     break;
                 case "+":
